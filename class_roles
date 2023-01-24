@@ -1,15 +1,19 @@
-Class Game - Method: start
+#Class Game - Method: start
     Calls the player and question methods.
     Receives the answers from players GETS/PUTS
-    Variables: Gamer over = false, use a while loop to confirm.
+    Variables: Game over = false, use a while loop to confirm.
 
 
-Class Player - You could use this to create instances of it for each player in the game. They could imput their name
+#Class Player - You could use this to create instances of it for each player in the game. They could imput their name
   when creating the instance so the game would output it on their turn.
   Data: names
     Lives method - check if they still have lives, return boolean
 
-Class Question - Varibles  = number_one, number_two
+#Class Question - Variables  = number_one, number_two
                     Method  = Generate two numbers, every turn
                     Method2 = Generate question as a string with the above two numbers in it.
-                    Method3 = isrght? take in user input and compare against the two numbers added together
+                    Method3 = isrght? take in user input and compare against the two numbers added togethe
+
+
+
+Steps: Create question with nubmers inside
